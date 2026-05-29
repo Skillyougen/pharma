@@ -1,8 +1,8 @@
 <?php
-define('DB_HOST', 'sql306.infinityfree.com');
-define('DB_NAME', 'if0_41942813_pharmadb');
-define('DB_USER', 'if0_41942813');
-define('DB_PASS', 'deleumas2026');
+define('DB_HOST', 'dpg-d8cm52t7vvec73ba72r0-a');
+define('DB_NAME', 'pharmadb_u8cs');
+define('DB_USER', 'pharmadb_u8cs_user');
+define('DB_PASS', 'dUivUukOuoPZWWlSU3iaSgMRhGmlzCcS');
 define('DB_CHARSET', 'utf8mb4');
 
 function getPDO(): PDO {
