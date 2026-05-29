@@ -1,8 +1,8 @@
 <?php
-define('DB_HOST', 'sql209.infinityfree.com');
-define('DB_NAME', 'if0_42032659_pharma_annuaire');
-define('DB_USER', 'if0_42032659');
-define('DB_PASS', '81Ohc2Kaa2');
+define('DB_HOST', 'fdb1032.runhosting.com');
+define('DB_NAME', '4763391_wpressb8458c2a');
+define('DB_USER', '4763391_wpressb8458c2a');
+define('DB_PASS', '67120Fof@ck');
 define('DB_CHARSET', 'utf8mb4');
 
 function getPDO(): PDO {
